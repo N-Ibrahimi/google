@@ -82,8 +82,8 @@ a {
  	width: 100%;
  	height: 63px;
  	border: 1px solid #e0e0eb;
- 	position: absolute;
-	margin-top: 44% ;
+	margin-bottom:0 ;
+	position: sticky; 
  	display: flex;
  	align-items: stretch;
  	color: #5f5d6b;
