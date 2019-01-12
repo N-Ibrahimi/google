@@ -83,8 +83,8 @@ a {
  	height: 63px;
  	border: 1px solid #e0e0eb;
 	margin-bottom:0 ;
-	position: sticky; 
- 	display: flex;
+	position:sticky; 
+ 	
  	align-items: stretch;
  	color: #5f5d6b;
  
